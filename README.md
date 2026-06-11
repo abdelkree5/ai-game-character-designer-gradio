@@ -121,6 +121,6 @@ set HF_API_TOKEN=your_token_here
 <hr/>
 
 <div align="center">
-<h3>👨‍💻 Developed by Mostafa Sharqawy</h3>
+<h3>👨‍💻 Developed by abdelkreem abdelhaleem frahat</h3>
 <p>AI Engineer | Generative AI | Computer Vision</p>
 </div>
